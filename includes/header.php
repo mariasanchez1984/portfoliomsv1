@@ -15,7 +15,7 @@
                         </a>
                             <ul class="submenu">
                                 <li class="menu-item container-submenu">
-                                    <a href="./includes/proyectos/domestika/domestika.php" class="menu-link submenu-btn"> - Domestika</a>
+                                    <a href="./proyectos/domestika/domestika.php" class="menu-link submenu-btn"> - Domestika</a>
                                 </li>
                                 <li class="menu-item container-submenu">
                                     <a href="./includes/proyectos/enterprise/enterprise.php" class="menu-link submenu-btn"> - Enterprise Formación</a>
