@@ -1,0 +1,61 @@
+body{
+    font-family: 'Cormorant Upright', serif;
+    text-align: center;  
+}
+#fondo {
+    background-image: url('../img/Captura.JPG');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;  
+}
+#fondo:before {
+    content:'';
+	position: absolute;
+    top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+    background-color: rgba(0,0,0,0.6);
+}
+#fondo h1 {
+    color: #fff;
+}
+fieldset {
+    background-color: #2e6841;
+    border: 2px solid #000;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #000;
+}
+select,
+input {
+    border-radius: 5px;
+}
+.container {
+    width: 480px;
+    margin: 130px auto 30px auto;
+    text-align: justify;
+    line-height: 1em;
+    font-size: 1.2em;
+}
+.operacion{
+    width: 15%; 
+    float:left; 
+    background-color: darkseagreen; 
+    border: 3px solid black; 
+    border-radius: 3px; 
+    padding:10px;
+    display: inline-table;
+}
+
+.error{
+    color: red;
+}
+
+.bien{
+    color: #136BBD;
+}
+
+
+
+
+
