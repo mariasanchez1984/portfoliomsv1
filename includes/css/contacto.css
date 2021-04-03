@@ -1,0 +1,108 @@
+.contenido-formulario  {
+  color: #beebf1; 
+  width: 480px;
+  margin: 130px auto 30px auto;
+  text-align: justify;
+  line-height: 1.8em;
+  font-size: 1.2em;
+  z-index: 100;
+} 
+.contenido-formulario input,
+.contenido-formulario select {
+  border-radius: 5px;
+}
+.contacto-enviar {
+  border: 0;
+  font-family: inherit;
+  font-size: 1em;
+  color: #beebf1;
+  background-color: transparent;
+  opacity: 0.8;
+  font-weight: bold;  
+}
+.contacto-enviar:hover {
+  cursor: pointer;
+  opacity: 1;
+  color: #fff;
+  transition: .4s; 
+}
+
+fieldset {
+  border-radius: 6px;
+  box-shadow: 0 0 10px #259dae;
+}
+legend {
+  font-weight: bold;
+}
+hr {
+  width: 300px;
+}
+/*  
+    .contacto-form input {
+    font-family: inherit;
+    font-size: 0.5em;
+    letter-spacing: 0.05em;
+    line-height: 1.5;
+    vertical-align: 0.25em;
+    color: inherit;
+    background-color: transparent;
+    border: 0;
+    border-bottom: 2px solid;
+    border-radius: 0;
+  }
+  
+  .contacto-form input::placeholder {
+    color: var(--primary-4);
+  }
+  
+  .contacto-form select {
+    font-family: inherit;
+    color: inherit;
+    font-size: 0.5em;
+    letter-spacing: 0.05em;
+    line-height: 1.5;
+    vertical-align: 0.25em;
+    background-color: transparent;
+    border: 0;
+    border-bottom: 2px solid;
+    padding-right: 1em;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-image: url('./includes/img/icon-arrow-right.svg');
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: 0.75em auto;
+    border-radius: 0;
+  }
+  
+  @media (max-width: 900px) {
+    .contacto-form {
+      font-size: var(--text-title);
+    }
+  }
+  
+  @media (max-width: 500px) {
+    .contacto-form {
+      font-size: var(--text-subheader);
+    }
+    .contacto-form select,
+    .contacto-form input {
+      font-size: 1rem;
+      width: 60%;
+      padding-bottom: 0;
+    }
+  
+    .contacto-titulo {
+      margin-top: var(--spacer-xl);
+      margin-bottom: var(--spacer-s);
+    }
+  
+    .contacto-titulo .text-headline {
+      line-height: 1.5;
+    }
+  
+    .contacto-form {
+      margin-top: 0;
+      margin-bottom: var(--spacer-l);
+    }
+  }

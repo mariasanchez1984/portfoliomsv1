@@ -1,0 +1,41 @@
+:root {
+  --bg: #fafafa;
+  --font: "Archivo", sans-serif;
+  --font-display: "Archivo Narrow", sans-serif;
+  --hotpink: #e94057;
+  --orange: #f27121;
+  --gradient: linear-gradient(35deg, var(--orange), var(--hotpink));
+}
+
+*{
+  box-sizing: border-box;
+}
+
+body {
+  padding: 2rem;
+  margin: auto;
+  min-height: 100vh;
+  background:  #fafafa;
+  font-family: "Archivo", sans-serif;
+}
+
+.enlaces-funciones{
+  list-style: none;
+  padding-left: 0;
+}
+.enlaces-funciones li {
+  margin-bottom: 1rem;
+}
+.enlaces-funciones a{
+  color: #e94057;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+.enlaces-funciones a::after{
+  content: "\25B6\FE0E";
+  margin-left: .5rem;
+  font-size: .6rem;
+  vertical-align: .1em;
+}
+

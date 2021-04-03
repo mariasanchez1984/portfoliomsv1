@@ -1,0 +1,369 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    background: #0f0c29; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0f0c29, #302b63, #24243e); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0f0c29, #302b63, #24243e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-family: 'Cormorant Upright', serif;
+    font-size: 0.9em;
+}
+.logo,
+.subtitulo {
+    display: none;
+}
+.nav-bar { /* Menú responsive = Menú escritorio */
+    background: #2C3E50;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #4CA1AF, #2C3E50);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #4CA1AF, #2C3E50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding: 20px;
+    display: block;
+    color: #beebf1;
+    cursor: pointer;
+    font-size: 1.5em;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}
+.menu, .submenu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.menu { /* ul */
+    background: #2C3E50;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #4CA1AF, #2C3E50);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #4CA1AF, #2C3E50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    width: 250px;
+    margin-left: -100%;
+    transition: .5s;
+    position: fixed;
+    top: 66px;
+    z-index: 100;
+}
+.menu-item {
+    background: #2290a0;
+    border-top: 1px solid #beebf1;
+    border-bottom: 1px solid #beebf1;
+    border-right: 1px solid #beebf1;
+    font-weight: bold;
+}
+.menu-link { 
+    display: block; 
+    padding: 10px;
+    color: #beebf1;
+    font-size: 1.4em;
+    text-decoration: none;
+}
+.menu-link:hover {
+    background: #13515a; 
+    color: #fff;
+    transition: all .4s;
+}
+.submenu .menu-link:hover {
+    background: #0a2b2f; 
+    color: #fff;
+    transition: all .4s;
+}
+.submenu {
+    height: 0;
+    overflow: hidden;
+    transition: 0.4s;
+}
+.submenu .menu-link {
+    background: #2290a0;
+    padding-left: 30px;
+}
+.mostrar {
+    margin-left: 0;
+}
+.titulo {
+    font-size: 1.8em;
+    text-align: center;
+    font-weight: bold;
+}
+.contenido-img {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #beebf1;
+    margin-top: 60px;    
+}
+.contenido-parrafo  {
+    color: #beebf1; 
+    margin-left: 25%;
+    margin-right: 25%;
+    line-height: 0.4em;
+}
+.contenido-formacion {
+    color: #beebf1; 
+    width: 480px;
+    margin: 80px auto;
+    line-height: 1.5em;
+    margin-bottom: 20px;
+    font-size: 1.2em;
+}  
+.contenido-formacion a {
+    text-decoration: none;
+    color: #beebf1;
+}
+.contenido-formacion a:hover {
+    color: #fff;
+}
+.proyectos,
+.acerca,
+.practicas {
+    text-align: justify;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+img {
+    width: 100%;
+    align-items: justify;
+    border: 3px solid #000; 
+    border-radius: 4px;
+}
+img:hover {
+    cursor: pointer;
+}
+#foto1,
+#foto2,
+#foto3 {
+    width: 220px;
+    height: 220px;
+    margin: 20px;
+    padding: 10px;
+    display: block;
+    border: 6px solid #2290a0; 
+    border-radius: 4px;
+    background-color: #fff;
+    margin-top: 4px;
+}
+hr {
+    width: 300px;
+    color: #2290a0;  
+}
+.quien-soy-foto {
+    display: block;
+    margin: 0 auto 20px;
+    border: solid 3px black;
+    border-radius: 50%;
+    width: 200px;
+}
+/* Footer */
+.footer  {
+    margin-bottom: 20px;
+    line-height: normal;
+    text-align: center;
+    color:  #beebf1;
+    font-size: 16px;
+    left:0px;
+    bottom:0;
+    height:30px;
+    width:100%;
+    font-weight: bold;     
+}
+.footer a {
+    color: #beebf1;
+    text-decoration: none;
+}
+.footer a:hover {
+    color: #fff; 
+    transition: all .4s;
+} 
+#home {
+    font-size: 20px;
+    position: fixed;
+    right: 20px;
+    top: 24px;
+    color: #beebf1;
+    text-decoration: none;
+    z-index: 20;
+    font-weight: bold;
+}
+#home:hover {
+    color: #fff;
+    transition: .4s;
+}
+/* Coger el más pequeño max-width */
+@media (min-width: 1024px) {
+    .logo {
+        font-size: 1.9em;
+        position: fixed;
+        left: 20px;
+        top: -8px;
+        color: #beebf1;
+        text-decoration: none;
+        z-index: 120;
+        display: block;
+        font-weight: bold;
+    }
+    .logo .subtitulo {
+        position: fixed;
+        right: 20px;
+        top: 16px;
+        font-weight: bold;
+        font-size: 1em;
+        color: #beebf1;  
+        z-index: 120;
+        display: block;
+}
+    .nav-bar {
+        display: none;
+    }
+    .menu {
+        margin-left: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 66px;
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 10;      
+    }
+    .menu-item {
+        border-top: 0;
+        border-bottom: 0;
+        border-left: 1px solid #beebf1;
+    }
+    .container-submenu {
+        position: relative;
+    }
+    .submenu {
+        position: absolute;
+        top: 46px;
+        width: 250px;
+        margin-left: -1px;
+        overflow: visible;    
+        opacity: 0;
+        visibility: hidden; 
+    }
+    .container-submenu .container-submenu {
+        border-top: 1px solid #beebf1; 
+        border-bottom: 1px solid #beebf1; 
+    }
+    .container-submenu:hover .submenu {
+        opacity: 1;
+        visibility: visible;
+    }
+    /* Contenido */ 
+    .titulo {
+        font-size: 1.9em;
+        text-align: center;
+        font-weight: bold;
+    }
+    .contenido-img {
+        width: 100%;
+        margin: 140px auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #beebf1;
+    }
+    .contenido-parrafo  {
+        color: #beebf1; 
+        margin-left: 25%;
+        margin-right: 25%;
+        line-height: 0.4em;
+    }
+    .contenido-formacion {
+        color: #beebf1; 
+        width: 480px;
+        margin: 80px auto 30px auto;
+        text-align: justify;
+        line-height: 1.5em;
+        margin-bottom: 20px;
+        font-size: 1.2em;
+        position: relative;    
+    }  
+    .contenido-formacion a {
+        text-decoration: none;
+        color: #beebf1;
+    }
+    .contenido-formacion a:hover {
+        color: #fff;
+    }
+    .proyectos,
+    .acerca,
+    .practicas {
+        text-align: justify;
+        font-weight: bold;
+        font-size: 1.3em;
+    }
+    img {
+        width: 100%;
+        align-items: justify;
+        border: 3px solid #000; 
+        border-radius: 4px;
+    }
+    img.ilu {
+        width: 50%;
+        align-items: justify;
+        border: 3px solid #000; 
+        border-radius: 4px;
+        margin-left: 340px;
+    }
+    #backButton {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+    }
+    img:hover {
+        cursor: pointer;
+    }
+    #foto1,
+    #foto2,
+    #foto3 {
+        width: 220px;
+        height: 220px;
+        margin: 20px;
+        padding: 10px;
+        display: inline-block;
+        border: 6px solid #2290a0; 
+        border-radius: 4px;
+        background-color: #fff;
+        margin-top: 4px;
+    }
+    hr {
+        width: 300px;
+        color: #2290a0;  
+    }
+    .quien-soy-foto {
+        display: block;
+        margin: 0 auto 20px;
+        border: solid 3px black;
+        border-radius: 50%;
+        width: 200px;
+    }
+    /* Footer */
+    .footer  {
+        margin-bottom: 20px;
+        line-height: normal;
+        text-align: center;
+        color:  #beebf1;
+        font-size: 16px;
+        left:0px;
+        bottom:0;
+        height:30px;
+        width:100%;
+        font-weight: bold;     
+    }
+    .footer a {
+        color: #beebf1;
+        text-decoration: none;
+    }
+    .footer a:hover {
+        color: #2290a0; 
+        transition: all .4s;
+    }  
+    #home {
+        display: none;
+    } 
+ 
+}
