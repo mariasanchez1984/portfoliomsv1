@@ -14,7 +14,7 @@
 </head>
 <body>
 
-    <?php include ('./includes/header.php') ?>
+    <?php include ('./../../header.php') ?>
 
     <div class= "contenido-formacion">
             <p class="titulo">- Domestika -</p>
