@@ -57,6 +57,6 @@
     
     <?php include ('./../../includes/footer.php') ?>
 
-    <script src="./../../js/menu.js"></script>
+    <script src="./../../includes/js/menu.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
     
