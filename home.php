@@ -19,7 +19,7 @@
 
 <div class="contenido-img">
     <article>
-        <a href="./includes/proyectos/domestika/domestika.php" rel="nofollow">
+        <a href="/proyectos/domestika/domestika.php" rel="nofollow">
             <img id="foto1" src="./includes/img/domestika.png" alt="domestika">
         </a>
         <a href="./includes/proyectos/enterprise/enterprise.php" rel="nofollow">
