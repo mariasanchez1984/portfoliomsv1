@@ -31,5 +31,5 @@
 </div>
 <img class="ilu" src="./includes/img/ilu.jpg" alt="María S Vielba"> 
     
-        <?php include ('./includes/footer.php') ?>
+    <?php include ('./includes/footer.php') ?>
         
