@@ -32,7 +32,3 @@
 </div> 
 
     <?php include ('./includes/footer.php') ?>
-
-    <script src="./includes/js/menu.js"></script>
-</body>
-</html>
