@@ -14,7 +14,8 @@
 </head>
 <body>
 
-    <?php include ("../../header.php") ?>
+    <?php include_once ($_SERVER['DOCUMENT_ROOT'].'/dirs.php'); 
+    include (INCLUDE_PATH."header.php") ?>
 
     <div class= "contenido-formacion">
             <p class="titulo">- Domestika -</p>
@@ -35,6 +36,6 @@
     </div>
          
     <?php include ('../../footer.php') ?>
-    
+
     <script src="./../../js/menu.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
