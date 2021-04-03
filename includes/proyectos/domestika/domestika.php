@@ -34,7 +34,7 @@
                 Página web: <a href="https://www.domestika.org/es/">https://www.domestika.org/es/</a>
     </div>
          
-    <?php include ('../../footer.php') ?>
+    <?php include ('./../../footer.php') ?>
 
     <script src="./../../js/menu.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>

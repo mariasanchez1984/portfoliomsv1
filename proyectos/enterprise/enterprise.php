@@ -15,7 +15,7 @@
 <body>
 
     
-<?php include ('../../header.php') ?>
+<?php include ('./../../header.php') ?>
 
 <!--<section class="cont-col">
     <div>
@@ -55,7 +55,7 @@
                 <strong>Página web:</strong> <a href="http://enterpriseformacion.com/">http://enterpriseformacion.com/</a>
     </div>
     
-    <?php include ('../../footer.php') ?>
+    <?php include ('./../../footer.php') ?>
 
     <script src="./../../js/menu.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
