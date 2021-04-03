@@ -15,8 +15,7 @@
 </head>
 <body>
     
-    <?php include_once ($_SERVER['DOCUMENT_ROOT'].'/dirs.php');
-          include (INCLUDE_PATH."header.php") ?>
+    <?php include ('./includes/header.php') ?>
 
 <div class="contenido-img">
     <article>
