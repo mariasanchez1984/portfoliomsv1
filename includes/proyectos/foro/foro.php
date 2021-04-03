@@ -33,7 +33,3 @@
     
     <?php include ('../../footer.php') ?>
 
-    <br><a href="../../../home.php" id="home"><i class="fa fa-home"></i> Home</a> 
-    <script src="../../js/menu.js"></script>       
-</body>
-</html>
