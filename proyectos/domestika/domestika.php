@@ -35,7 +35,7 @@
     </div>
          
     <?php include ('./../../includes/footer.php') ?>
-    
-    <br><a href="home.php" id="home"><i class="fa fa-home"></i> Home</a>
+
+    <br><a href="./../../home.php" id="home"><i class="fa fa-home"></i> Home</a>
     <script src="./../../js/menu.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
