@@ -39,8 +39,6 @@
                 <br><a href="./includes/proyectos/dados/dados.php">
                     - Aplicación que te genera un juego de dados -
                 </a>
-    </div>
-    <div class="contenido-formacion">
             <p class="practicas">Prácticas:</p>
             <p><strong>Empresa:</strong> A&A Confección Informática.</p>
             <p><strong>Fecha:</strong> Diciembre-2019</p>
