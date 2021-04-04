@@ -17,35 +17,25 @@
     
 <?php include ('./../../includes/header.php') ?>
 
-<section class="contenido-formacion">
-    <div>
-        <img src="certificado.png" alt="certificado">
-        <h2>Desarrollo de Aplicaciones con Tecnología Web:</h2> 
-        <h3>Fecha: Abril / Diciembre 2019</h3>
-        <h4>Madrid, Comunidad de Madrid</h4>       
-        <p class="acerca">Acerca de Enterprise Formación:</p>
-            <p>Es una empresa de ámbito nacional 
-            con 10 años de antigüedad dedicada al desarrollo de actividades formativas 
-            en su más amplia acepción.
-        </p>
+<section class="contenido">
+    <div class="columnas">
+        <img class="im" src="certificado.png" alt="certificado">
+        <h2><strong>Certificado:</strong></h2>
+            <h3><br>Desarrollo de Aplicaciones con 
+            <br>Tecnología Web</h3>
+        <p><strong>Fecha:</strong> Abril / Diciembre 2019</p>
+        <p>Madrid, Comunidad de Madrid</p>       
     </div>
-</section>
-<section class="contenido-formacion">
-    <div>
-        <img src="programadora.jpg" alt="proyectos">
-        <h2>Desarrollo de Aplicaciones con Tecnología Web:</h2> 
-        <h3>Fecha: Abril / Diciembre 2019</h3>
-        <h4>Madrid, Comunidad de Madrid</h4>       
-        <p class="acerca">Acerca de Enterprise Formación:</p>
-            <p>Es una empresa de ámbito nacional 
-            con 10 años de antigüedad dedicada al desarrollo de actividades formativas 
-            en su más amplia acepción.
-        </p>
+    <div class="columnas">
+        <img class="im" src="programadora.jpg" alt="proyectos">
+        <h3>Proyectos de Maquetación Web</h3>
+        <a class="bingo" href="../enterprise/maquetacion/ContenedorFlex/contenedor-flex.php">Maquetación Flex</a> 
+        <h3>Proyectos de PHP</h3>
+        <a class="bingo" href="../enterprise/proyectos-php/bingo/proyectobingo.php">Generador de Cartones de Bingo</a>
+        <h3>Proyectos adicionales</h3>       
     </div>
-</section>
-<section class="contenido-formacion">
-    <div>
-        <img class="empresa" src="empresa.jpg" alt="empresa">
+    <div class="columnas">
+        <img class="im" class="empresa" src="empresa.jpg" alt="empresa">
         <h2>Desarrollo de Aplicaciones con Tecnología Web:</h2> 
         <h3>Fecha: Abril / Diciembre 2019</h3>
         <h4>Madrid, Comunidad de Madrid</h4>       

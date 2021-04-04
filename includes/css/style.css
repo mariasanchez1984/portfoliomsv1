@@ -289,6 +289,30 @@ hr {
     .contenido-formacion a:hover {
         color: #fff;
     }
+    .contenido {
+        width: 80%;
+        margin: 140px auto;
+        color: #beebf1; 
+    }
+    h2{
+        text-align: center;
+    }
+    .im {
+        width: 300px;
+        height: 250px;
+    }
+    .columnas {
+        width: 33.333%;
+        float:left;
+    }
+    .bingo {
+        text-decoration: none;
+        color: #beebf1;  
+    }
+    .bingo:hover {
+        color: #fff;
+        transition: .4s;
+    }
     .proyectos,
     .acerca,
     .practicas {
@@ -301,7 +325,6 @@ hr {
         align-items: justify;
         border: 3px solid #000; 
         border-radius: 4px;
-        background-color: #2290a0;
     }
     img.ilu {
         width: 50%;
