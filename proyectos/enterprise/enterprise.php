@@ -17,15 +17,14 @@
     
 <?php include ('./../../includes/header.php') ?>
 
-<!--<section class="cont-col">
+<section class="cont-col">
     <div>
-        <img src="" alt="">
-        <h4></h4>
-        <h5></h5>
+        <img src="certificado.png" alt="certificado">
+        <h4>Certificado:</h4>        
         <p></p>
     </div>
-</section>-->
-    <div class= "contenido-formacion">
+</section>
+    <!--<div class= "contenido-formacion">
     <p class="titulo">- Enterprise Formación -</p>
             <p><strong>Certificado:</strong> Desarrollo de Aplicaciones con 
             Tecnología Web.</p>
@@ -51,7 +50,7 @@
             en su más amplia acepción.
             </p>
                 <strong>Página web:</strong> <a href="http://enterpriseformacion.com/">http://enterpriseformacion.com/</a>
-    </div>
+    </div>-->
     
     <?php include ('./../../includes/footer.php') ?>
 
