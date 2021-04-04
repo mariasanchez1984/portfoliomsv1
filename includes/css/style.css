@@ -301,6 +301,7 @@ hr {
         align-items: justify;
         border: 3px solid #000; 
         border-radius: 4px;
+        background-color: #2290a0;
     }
     img.ilu {
         width: 50%;

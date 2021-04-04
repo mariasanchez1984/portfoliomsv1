@@ -17,11 +17,43 @@
     
 <?php include ('./../../includes/header.php') ?>
 
-<section class="cont-col">
+<section class="contenido-formacion">
     <div>
         <img src="certificado.png" alt="certificado">
-        <h4>Certificado:</h4>        
-        <p></p>
+        <h2>Desarrollo de Aplicaciones con Tecnología Web:</h2> 
+        <h3>Fecha: Abril / Diciembre 2019</h3>
+        <h4>Madrid, Comunidad de Madrid</h4>       
+        <p class="acerca">Acerca de Enterprise Formación:</p>
+            <p>Es una empresa de ámbito nacional 
+            con 10 años de antigüedad dedicada al desarrollo de actividades formativas 
+            en su más amplia acepción.
+        </p>
+    </div>
+</section>
+<section class="contenido-formacion">
+    <div>
+        <img src="programadora.jpg" alt="proyectos">
+        <h2>Desarrollo de Aplicaciones con Tecnología Web:</h2> 
+        <h3>Fecha: Abril / Diciembre 2019</h3>
+        <h4>Madrid, Comunidad de Madrid</h4>       
+        <p class="acerca">Acerca de Enterprise Formación:</p>
+            <p>Es una empresa de ámbito nacional 
+            con 10 años de antigüedad dedicada al desarrollo de actividades formativas 
+            en su más amplia acepción.
+        </p>
+    </div>
+</section>
+<section class="contenido-formacion">
+    <div>
+        <img class="empresa" src="empresa.jpg" alt="empresa">
+        <h2>Desarrollo de Aplicaciones con Tecnología Web:</h2> 
+        <h3>Fecha: Abril / Diciembre 2019</h3>
+        <h4>Madrid, Comunidad de Madrid</h4>       
+        <p class="acerca">Acerca de Enterprise Formación:</p>
+            <p>Es una empresa de ámbito nacional 
+            con 10 años de antigüedad dedicada al desarrollo de actividades formativas 
+            en su más amplia acepción.
+        </p>
     </div>
 </section>
     <!--<div class= "contenido-formacion">
