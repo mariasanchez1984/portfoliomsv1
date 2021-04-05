@@ -35,10 +35,7 @@
         <h3>Proyectos adicionales</h3>       
     </div>
     <div class="columnas">
-        <img class="im" class="empresa" src="empresa.jpg" alt="empresa">
-        <h2>Desarrollo de Aplicaciones con Tecnología Web:</h2> 
-        <h3>Fecha: Abril / Diciembre 2019</h3>
-        <h4>Madrid, Comunidad de Madrid</h4>       
+        <img class="im" class="empresa" src="empresa.jpg" alt="empresa">      
         <p class="acerca">Acerca de Enterprise Formación:</p>
             <p>Es una empresa de ámbito nacional 
             con 10 años de antigüedad dedicada al desarrollo de actividades formativas 

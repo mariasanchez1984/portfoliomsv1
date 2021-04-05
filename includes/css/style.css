@@ -291,11 +291,8 @@ hr {
     }
     .contenido {
         width: 80%;
-        margin: 140px auto;
+        margin: 100px auto;
         color: #beebf1; 
-    }
-    h2{
-        text-align: center;
     }
     .im {
         width: 300px;
@@ -354,10 +351,6 @@ hr {
         background-color: #fff;
         margin-top: 4px;
     }
-    hr {
-        width: 300px;
-        color: #2290a0;  
-    }
     .quien-soy-foto {
         display: block;
         margin: 0 auto 20px;
@@ -367,13 +360,14 @@ hr {
     }
     /* Footer */
     .footer  {
-        margin-bottom: 20px;
         line-height: normal;
         text-align: center;
         color:  #beebf1;
         font-size: 16px;
-        left:0px;
-        bottom:0;
+        display: flex;
+        justify-content: center;
+        align-items: flex-end;
+        bottom: -6px;
         height:30px;
         width:100%;
         font-weight: bold;     
