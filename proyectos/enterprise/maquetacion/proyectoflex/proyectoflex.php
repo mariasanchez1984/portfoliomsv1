@@ -25,7 +25,7 @@
             árticulos están colocados en modo de
             rejilla.
         </p>
-            <img src="img/bingo.jpg"/>
+            <img src="captura.png"/>
             <br>
             <a href="./../../enterprise.php" id="backButton">
                 <i class="far fa-arrow-alt-circle-left"></i>

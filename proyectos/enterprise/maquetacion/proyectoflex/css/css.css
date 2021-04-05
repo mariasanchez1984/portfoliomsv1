@@ -5,10 +5,12 @@
     0px; 
     padding:0px
 }
-
+h1 {
+    text-align: center;
+}
 #contenedor {
-    background-color: #ffffff; 
-    margin: 5% auto; 
+    background-color: blanchedalmond; 
+    margin: 2% auto; 
     display: flex; 
     width:80%; 
     flex-wrap: wrap; 
