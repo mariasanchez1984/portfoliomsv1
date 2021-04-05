@@ -17,13 +17,11 @@
 <?php include ('./../../../../includes/header.php') ?>
     
     <div class= "contenido-formacion">
-        <p class="titulo">- Contenedor Flex -</p>
+        <p class="titulo">- Proyecto Massively -</p>
         <p>
             Proyecto para poner en práctica
-            el concepto de flex-box y con la
-            que se plantea una página en la que los
-            árticulos están colocados en modo de
-            rejilla.
+            la propiedad de "display" más el 
+            atributo "flex" y sus diferentes variantes. 
         </p>
             <img src="captura.png"/>
             <br>
@@ -33,6 +31,9 @@
             <a href="index.php">
                 <strong>Ir a la aplicación:</strong> "contenedorflex.php"
             </a>
+            <br><strong>Página a replicar:</strong>
+            <a href="https://html5up.net/uploads/demos/massively/"> https://html5up.net/uploads/demos/massively/</a>
+
     </div>
 
     <?php include ('./../../../../includes/footer.php') ?>
