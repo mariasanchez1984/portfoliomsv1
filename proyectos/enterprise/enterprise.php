@@ -29,6 +29,8 @@
     <div class="columnas">
         <img class="im" src="programadora.jpg" alt="proyectos">
         <h3>Proyectos de Maquetación Web</h3>
+        <a class="bingo" href="../enterprise/maquetacion/proyectoflex.php">Proyecto de Maquetación Flex</a>
+        <h3>Proyectos de PHP</h3>
         <a class="bingo" href="../enterprise/proyectos-php/bingo/proyectobingo.php">Generador de Cartones de Bingo</a>
         <h3>Proyectos de PHP</h3>
         <a class="bingo" href="../enterprise/proyectos-php/bingo/proyectobingo.php">Generador de Cartones de Bingo</a>
