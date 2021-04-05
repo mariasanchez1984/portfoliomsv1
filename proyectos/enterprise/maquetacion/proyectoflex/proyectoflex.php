@@ -30,8 +30,8 @@
             <a href="./../../enterprise.php" id="backButton">
                 <i class="far fa-arrow-alt-circle-left"></i>
             </a>
-            <a href="ContenedorFlex.php">
-                <strong>Ir a la aplicación:</strong> "ContenedorFlex.php"
+            <a href="contenedorflex.php">
+                <strong>Ir a la aplicación:</strong> "contenedorflex.php"
             </a>
     </div>
 
