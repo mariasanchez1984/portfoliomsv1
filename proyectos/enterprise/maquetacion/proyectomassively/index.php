@@ -14,7 +14,7 @@
     </head>
     <body>
         <header>
-            <h1>THIS IS MASSIVELY</h1>
+            <h1>THIS IS<br>MASSIVELY</h1>
             <p>A free, fully responsive HTML5 + CSS3 site template designed by <a href="https://twitter.com/ajlkn">@ajlkn</a> for <a href="https://html5up.net/">HTML5 UP</a> and released for free under the <a href="https://html5up.net/license">Creative Commons license</a>            
             <div id="massively"><a href=""><span class="icon-circle-down"></span></a></div>
             

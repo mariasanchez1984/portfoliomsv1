@@ -1,18 +1,21 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@900&display=swap');
 * {margin:0px; padding:0px}
 
 body
 {background-image: url("/img/bg.jpg"); background-position:center top; background-size: 100%; background-repeat: no-repeat; background-color: #212931; background-attachment: fixed; font-family: 'Merriweather', serif; } 
 
 h1, h2, h3, h4, h5, h6
-{font-family: 'Source Sans Pro', sans-serif;}
-
+{font-family: "Source Sans Pro", Helvetica, sans-serif;}
+h1 {
+    margin: 0 0 2rem 0;
+}
 header
 {width:80%; margin:auto; display: block}
 
 header h1, p
-{text-align: center; color: #ffffff}
+{text-align: center; color: #ffffff;}
 
 header h1 
 {font-size: 6em; line-height: 1; font-weight: bolder}
