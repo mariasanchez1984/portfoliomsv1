@@ -14,7 +14,7 @@
 </head>
 <body>
 
-    <?php include ('./../../includes/header.php') ?>  
+    <?php include_once(__DIR__.'/../../includes/header.php'); ?>  
 
     <div class= "contenido-formacion">
             <p class="titulo">- Domestika -</p>
