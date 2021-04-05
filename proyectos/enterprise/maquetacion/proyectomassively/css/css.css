@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+* {margin:0px; padding:0px}
+
+body
+{background-image: url("/img/bg.jpg"); background-position:center top; background-size: 100%; background-repeat: no-repeat; background-color: #212931; background-attachment: fixed; font-family: 'Merriweather', serif; } 
+
+h1, h2, h3, h4, h5, h6
+{font-family: 'Source Sans Pro', sans-serif;}
+
+header
+{width:80%; margin:auto; display: block}
+
+header h1, p
+{text-align: center; color: #ffffff}
+
+header h1 
+{font-size: 6em; line-height: 1; font-weight: bolder}
+
+header p
+{font-size: 1.5em}
+
+header p a{
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    color: #ffffff;
+}
+
+header #massively
+{color: #ffffff; text-align: center;}
+
+header #massively a{
+    text-decoration: none;
+}
+
+header #barra_navegacion
+{display: block; padding:2%; background-color: rgba(255,255,255,0.17);}
+
+header #barra_links
+{float:left; list-style: none}
+
+header #barra_social{
+    float: right;
+    list-style: none;
+}
+
+header nav #barra_social li, #barra_links li
+{display: inline-block}
+
+/*header #barra_navegacion #barra_links li a
+{display: block; box-sizing: border-box; padding: 10px; color:#ffffff; font-weight: bold; font-size: 1.2em}
+
+header #barra_navegacion #barra_links li a
+{background-color: #505050}*/
+
+.clear{
+    clear: both;
+}

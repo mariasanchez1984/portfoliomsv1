@@ -21,28 +21,29 @@
     <div class="columnas">
         <img class="im" src="certificado.png" alt="certificado">
         <h2><strong>Certificado:</strong></h2>
-            <h3><br>Desarrollo de Aplicaciones con 
-            <br>Tecnología Web</h3>
+            <h2>- Desarrollo de Aplicaciones con 
+            <br>Tecnología Web -</h2>
         <p><strong>Fecha:</strong> Abril / Diciembre 2019</p>
         <p>Madrid, Comunidad de Madrid</p>       
     </div>
     <div class="columnas">
         <img class="im" src="programadora.jpg" alt="proyectos">
-        <h3>Proyectos de Maquetación Web</h3>
+        <h2><strong>- Proyectos de Maquetación Web:</strong></h2>
         <a class="bingo" href="../enterprise/maquetacion/proyectoflex/proyectoflex.php">Proyecto de Maquetación Flex</a>
-        <h3>Proyectos de PHP</h3>
+        <br>
+        <a class="bingo" href="../enterprise/maquetacion/proyectomassively/proyectomassively.php">Proyecto Massively</a>
+        <h2><strong>- Proyectos de PHP:</strong></h2>
         <a class="bingo" href="../enterprise/proyectos-php/bingo/proyectobingo.php">Generador de Cartones de Bingo</a>
-        <h3>Proyectos de PHP</h3>
-        <a class="bingo" href="../enterprise/proyectos-php/bingo/proyectobingo.php">Generador de Cartones de Bingo</a>
-        <h3>Proyectos adicionales</h3>       
+        <br>
+        <h2><strong>- Proyectos adicionales:</strong></h2>       
     </div>
     <div class="columnas">
         <img class="im" class="empresa" src="empresa.jpg" alt="empresa">      
-        <p class="acerca">Acerca de Enterprise Formación:</p>
+        <h2><strong>Acerca de Enterprise Formación:</strong></h2>
             <p>Es una empresa de ámbito nacional 
             con 10 años de antigüedad dedicada al desarrollo de actividades formativas 
             en su más amplia acepción.
-        </p>
+            </p>
     </div>
 </section>
     <!--<div class= "contenido-formacion">
