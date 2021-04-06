@@ -179,7 +179,7 @@
         </section>  
         <footer>
             <div id="copyright">
-                <p>&copy; Untitled | Design:<a href="https://html5up.net">HTML5 UP</a> | Demo Images:<a href="https://unsplash.com">Unsplash</a>
+                <p>&copy; UNTITLED | DESIGN:<a href="https://html5up.net">HTML5 UP</a> | DEMO IMAGES:<a href="https://unsplash.com">UNPLASH</a>
             </div>
     </footer>
 </body>
