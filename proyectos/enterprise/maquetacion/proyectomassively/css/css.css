@@ -1,28 +1,59 @@
-/*@import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@900&display=swap');
+
 * {
-    margin:0px; 
-    padding:0px
+    margin: 0;
+    padding: 0;
 }
 
 body {
-    background-image: url("/img/bg.jpg"); 
-    background-position: center top; 
+    background-image: url('../img/bg.jpg');
     background-size: 100%; 
-    background-repeat: no-repeat; 
-    background-color: #212931; 
-    background-attachment: fixed; 
-    font-family: 'Merriweather', serif; 
-} 
+    background-repeat: no-repeat;
+    background-color: #1e252d;; 
+    background-attachment: fixed;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    letter-spacing: 0.1em;
+    font-weight: 800;
+    margin: 0 0 2rem 0;
+    font-size: 4.5rem;
+}
+
+p.intro {
+    color: #fff;
+    vertical-align: baseline;
+    text-align: center;
+    line-height: 2em;
+    font-family: 'Merriweather', Georgia, serif;
+    font-style: italic;
+    font-size: 1.1em;
+}
+p.intro a {
+    color: #fff;
+    border-bottom: dotted 1px;
+    text-decoration: none;
+}
+p.intro a:hover {
+    color: darkturquoise;
+    border-bottom: none;
+}
+
+.clear{
+    clear: both;
+}
+
+/*
+
+
 
 h1, h2, h3, h4, h5, h6 {
     font-family: "Merriweather", Georgia, serif;
-
-}
-h1 {
-    margin: 0 0 2rem 0;
-}
 header
 {width:80%; margin:auto; display: block}
 
@@ -73,6 +104,3 @@ header nav #barra_social li, #barra_links li
 header #barra_navegacion #barra_links li a
 {background-color: #505050}*/
 
-.clear{
-    clear: both;
-}

@@ -15,10 +15,10 @@
     <body>
         <header>
             <h1>THIS IS<br>MASSIVELY</h1>
-            <p>A free, fully responsive HTML5 + CSS3 site template designed by 
+            <p class="intro">A free, fully responsive HTML5 + CSS3 site template designed by 
                 <a href="https://twitter.com/ajlkn">@ajlkn</a> 
                 for <a href="https://html5up.net/">HTML5 UP</a> 
-                and released for free under the 
+                <br>and released for free under the 
                 <a href="https://html5up.net/license">Creative Commons license.</a> 
             </p>           
             <div id="massively">
