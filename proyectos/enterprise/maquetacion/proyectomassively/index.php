@@ -15,9 +15,15 @@
     <body>
         <header>
             <h1>THIS IS<br>MASSIVELY</h1>
-            <p>A free, fully responsive HTML5 + CSS3 site template designed by <a href="https://twitter.com/ajlkn">@ajlkn</a> for <a href="https://html5up.net/">HTML5 UP</a> and released for free under the <a href="https://html5up.net/license">Creative Commons license</a>            
-            <div id="massively"><a href=""><span class="icon-circle-down"></span></a></div>
-            
+            <p>A free, fully responsive HTML5 + CSS3 site template designed by 
+                <a href="https://twitter.com/ajlkn">@ajlkn</a> 
+                for <a href="https://html5up.net/">HTML5 UP</a> 
+                and released for free under the 
+                <a href="https://html5up.net/license">Creative Commons license.</a> 
+            </p>           
+            <div id="massively">
+                <a href=""><span><i class="fas fa-arrow-circle-down"></i></span></a>
+            </div>
             <nav id="barra_navegacion">
                 <ul id="barra_links">
                     <li><a href="">THIS IS MASSIVELY</a></li>
@@ -36,52 +42,94 @@
         <section id="primera_seccion">
             <article id="articulo1">
                 <p>April 25, 2017</p>
-                <h2>AND THIS IS A MASSIVE HEADLINE</h2>
-                <p>Aenean ornare velit lacus varius enim ullamcorper proin aliquam<br />facilisis ante sed etiam magna interdum congue. Lorem ipsum dolor<br />amet nullam sed etiam veroeros</p>
-                <img src="img/pic01.jpg">
-                <div class="final_articulo botones"><a href="#">FULL STORY</a></div>
+                <h2>AND THIS IS A<br>MASSIVE HEADLINE</h2>
+                    <p>
+                        Aenean ornare velit lacus varius enim ullamcorper proin aliquam
+                        <br>facilisis ante sed etiam magna interdum congue. Lorem ipsum dolor
+                        <br>amet nullam sed etiam veroeros
+                    </p>
+                        <img src="img/pic01.jpg">
+                <div class="final_articulo botones">
+                    <a href="#">FULL STORY</a>
+                </div>
             </article>
             <article id="articulo2">
                 <p>April 24,2017</p>
-                <h2>SED MAGNA IPSUM FAUCIBUS</h2>
-                <img src="img/pic02.jpg">
-                <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam</p>
-                <div class="final_articulo botones"><a href="#">FULL STORY</a></div>
+                <h2>SED MAGNA<br>IPSUM FAUCIBUS</h2>
+                    <img src="img/pic02.jpg">
+                        <p>
+                            Donec eget ex magna. Interdum et malesuada fames ac 
+                            <br>ante ipsum primis in faucibus. Pellentesque venenatis 
+                            <br>dolor imperdiet dolor mattis sagittis magna etiam
+                        </p>
+                <div class="final_articulo botones">
+                    <a href="#">FULL STORY</a>
+                </div>
             </article> 
             <article id="articulo3">
                 <p>April 22,2017</p>
-                <h2>PRIMIS EGET IMPERDIET LOREM</h2>
-                <img src="img/pic03.jpg">
-                <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam</p>
-                <div class="final_articulo botones"><a href="#">FULL STORY</a></div>
+                <h2>PRIMIS EGET<br>IMPERDIET LOREM</h2>
+                    <img src="img/pic03.jpg">
+                        <p>
+                            Donec eget ex magna. Interdum et malesuada fames ac 
+                            <br>ante ipsum primis in faucibus. Pellentesque venenatis 
+                            <br>dolor imperdiet dolor mattis sagittis magna etiam
+                        </p>
+                <div class="final_articulo botones">
+                    <a href="#">FULL STORY</a>
+                </div>
             </article> 
             <article id="articulo4">
                 <p>April 18,2017</p>
                 <h2>ANTE MATTIS INTERDUM DOLOR</h2>
-                <img src="img/pic04.jpg">
-                <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam</p>
-                <div class="final_articulo botones"><a href="#">FULL STORY</a></div>
+                    <img src="img/pic04.jpg">
+                        <p>
+                            Donec eget ex magna. Interdum et malesuada fames ac 
+                            <br>ante ipsum primis in faucibus. Pellentesque venenatis 
+                            <br>dolor imperdiet dolor mattis sagittis magna etiam
+                        </p>
+                <div class="final_articulo botones">
+                    <a href="#">FULL STORY</a>
+                </div>
             </article> 
             <article id="articulo5">
                 <p>April 14,2017</p>
-                <h2>TEMPUS SED NULLA IMPERDIET</h2>
-                <img src="img/pic05.jpg">
-                <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam</p>
-                <div class="final_articulo botones"><a href="#">FULL STORY</a></div>
+                <h2>TEMPUS SED<br>NULLA IMPERDIET</h2>
+                    <img src="img/pic05.jpg">
+                        <p>
+                            Donec eget ex magna. Interdum et malesuada fames ac 
+                            <br>ante ipsum primis in faucibus. Pellentesque venenatis 
+                            <br>dolor imperdiet dolor mattis sagittis magna etiam
+                        </p>
+                <div class="final_articulo botones">
+                    <a href="#">FULL STORY</a>
+                </div>
             </article> 
             <article id="articulo6">
                 <p>April 11,2017</p>
-                <h2>ODIO MAGNA SED CONSECTEUR</h2>
-                <img src="img/pic06.jpg">
-                <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam</p>
-                <div class="final_articulo botones"><a href="#">FULL STORY</a></div>
+                <h2>ODIO MAGNA<br>SED CONSECTEUR</h2>
+                    <img src="img/pic06.jpg">
+                        <p>
+                            Donec eget ex magna. Interdum et malesuada fames ac 
+                            <br>ante ipsum primis in faucibus. Pellentesque venenatis 
+                            <br>dolor imperdiet dolor mattis sagittis magna etiam
+                        </p>
+                <div class="final_articulo botones">
+                    <a href="#">FULL STORY</a>
+                </div>
             </article> 
             <article id="articulo7">
                 <p>April 7,2017</p>
-                <h2>AUGUE LOREM PRIMIS VESTIBULUM</h2>
+                <h2>AUGUE LOREM<br>PRIMIS VESTIBULUM</h2>
                 <img src="img/pic07.jpg">
-                <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam</p>
-                <div class="final_articulo botones"><a href="#">FULL STORY</a></div>
+                    <p>
+                        Donec eget ex magna. Interdum et malesuada fames ac 
+                        <br>ante ipsum primis in faucibus. Pellentesque venenatis 
+                        <br>dolor imperdiet dolor mattis sagittis magna etiam
+                    </p>
+                <div class="final_articulo botones">
+                    <a href="#">FULL STORY</a>
+                </div>
             </article>             
         </section>
         <table border="2">
