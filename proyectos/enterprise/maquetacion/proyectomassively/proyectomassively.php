@@ -29,7 +29,7 @@
                 <i class="far fa-arrow-alt-circle-left"></i>
             </a>
             <a href="index.php">
-                <strong>Ir a la aplicación:</strong> "contenedorflex.php"
+                <strong>Ir a la aplicación:</strong> "index.php"
             </a>
             <br><strong>Página a replicar:</strong>
             <a href="https://html5up.net/uploads/demos/massively/"> https://html5up.net/uploads/demos/massively/</a>

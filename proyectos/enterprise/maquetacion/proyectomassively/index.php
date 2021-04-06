@@ -130,36 +130,32 @@
                 <div class="final_articulo botones">
                     <a href="#">FULL STORY</a>
                 </div>
-            </article>             
-        </section>
-        <table border="2">
-            <tr>
-                <td>1</td>
-                <td>2</td>
-                <td>3</td>
-                <td>4</td>
-                <td>5</td>
-                <td>6</td>
-                <td>7</td>
-                <td>NEXT></td>
-                </td>
-        </table>
+            </article>  
+            <div class="clear"></div>           
+            <div id="paginacion">
+                <span>1</span>
+                <span>2</span>
+                <span>3</span>
+                <span>8</span>
+                <span>9</span>
+                <span>10</span>
+                <span id="sPageNext">Next</span>
+            </div>
+       </section>
         <section>
             <div id="formulario">
-                <form name="Formulario" method="post">
+                <form name="formulario" method="post">
                     <label for="name">
                         <p>NAME</p>
                     </label>
                     <input type="text" name="name"><br>
-
                     <label for="email">
                         <p>EMAIL</p>
                     </label>
                     <input type="mail" name="email" id="email"><br><br>
-
                     <p>MESSAGE</p>
                     <textarea name="massage" id="massage" rows="5"></textarea><br><br><br>
-                    <input type="submit" value="send message">
+                    <input type="submit" value="SEND MASSAGE">
                 </form>                
             </div>
             <div id="seccion_derecha">
@@ -185,7 +181,6 @@
             <div id="copyright">
                 <p>&copy; Untitled | Design:<a href="https://html5up.net">HTML5 UP</a> | Demo Images:<a href="https://unsplash.com">Unsplash</a>
             </div>
-        </div>
     </footer>
 </body>
 </html>
