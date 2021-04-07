@@ -23,6 +23,8 @@ h1 {
     font-weight: 800;
     margin: 0 0 2rem 0;
     font-size: 4.5rem;
+    padding-top: 120px;
+    line-height: 1;
 }
 
 p.intro {
@@ -48,9 +50,21 @@ p.intro a:hover {
     clear: both;
 } 
 
-ul.massively {
-    background-color: transparent;
-    justify-content: center;
+header #massively {
+    display: block;
+    text-align: center;
+    width: 50%;
+    padding-top: 30px;
+    margin: auto;
+}
+
+header #massively i {
+    color: #fff;
+    font-size: 1.9em;
+}
+
+header #massively i:hover {
+    color: darkturquoise;
 }
 /*
 
