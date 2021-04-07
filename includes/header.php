@@ -29,5 +29,5 @@
                 <li class="menu-item"><a href="./../contacto.php" class="menu-link"><i class="fas fa-user-edit site-nav--icon"></i> Contacto</a></li>
             </ul>
         </nav>
-    <br><a href="./../home.php" id="home"><i class="fa fa-home"></i> Home</a>
+    <a href="./../home.php" id="home"><i class="fa fa-home"></i> Home</a>
 </header>

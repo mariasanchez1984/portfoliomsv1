@@ -21,11 +21,9 @@
                 <br>and released for free under the 
                 <a href="https://html5up.net/license">Creative Commons license.</a> 
             </p>           
-            <ul class="massively">
-                <li>
-                    <a href=""><span><i class="fas fa-arrow-circle-down"></i></span></a>
-                </li>
-            </ul>
+            <div id="massively">
+                <a href=""><span><i class="fas fa-arrow-circle-down"></i></span></a>
+            </div>
             <nav id="barra_navegacion">
                 <ul id="barra_links">
                     <li><a href="">THIS IS MASSIVELY</a></li>
