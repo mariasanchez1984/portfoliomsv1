@@ -14,7 +14,7 @@
 </head>
 <body>
     
-    <?php include ('./includes/header.php') ?>
+    <?php include ('includes/header.php'); ?>
 
 <div class="contenido-img">
     <article>
@@ -30,5 +30,5 @@
     </article>
 </div> 
 
-    <?php include ('./includes/footer.php') ?>
+    <?php include ('includes/footer.php'); ?>
 
