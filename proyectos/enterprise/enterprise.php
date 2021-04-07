@@ -21,21 +21,28 @@
     <div class="columnas">
         <img class="im" src="certificado.png" alt="certificado">
         <h2><strong>Certificado:</strong></h2>
-            <h2>- Desarrollo de Aplicaciones con 
-            <br>Tecnología Web -</h2>
+            <h2>~ Desarrollo de Aplicaciones con 
+            <br>Tecnología Web ~</h2>
         <p><strong>Fecha:</strong> Abril / Diciembre 2019</p>
-        <p>Madrid, Comunidad de Madrid</p>       
+        <p>Madrid, Comunidad de Madrid</p>
+        <h2><strong>Practicas:</strong></h2>
+            <p><strong>Empresa:</strong> A&A Confección Informática.</p>
+            <p><strong>Fecha:</strong> Diciembre-2019</p>
+            <p>Alcorcón, Comunidad de Madrid.</p>
+            <a href="../enterprise/carta.pdf">
+            <i class="fas fa-file-pdf"></i></a>
+            <span>Carta de Recomendación</span>       
     </div>
     <div class="columnas">
         <img class="im" src="programadora.jpg" alt="proyectos">
-        <h2><strong>- Proyectos de Maquetación Web:</strong></h2>
+        <h2><strong>~ Proyectos de Maquetación Web:</strong></h2>
         <a class="bingo" href="../enterprise/maquetacion/proyectoflex/proyectoflex.php">Proyecto de Maquetación Flex</a>
         <br>
         <a class="bingo" href="../enterprise/maquetacion/proyectomassively/proyectomassively.php">Proyecto Massively</a>
-        <h2><strong>- Proyectos de PHP:</strong></h2>
+        <h2><strong>~ Proyectos de PHP:</strong></h2>
         <a class="bingo" href="../enterprise/proyectos-php/bingo/proyectobingo.php">Generador de Cartones de Bingo</a>
         <br>
-        <h2><strong>- Proyectos adicionales:</strong></h2>       
+        <h2><strong>~ Proyectos adicionales:</strong></h2>       
     </div>
     <div class="columnas">
         <img class="im" class="empresa" src="empresa.jpg" alt="empresa">      
