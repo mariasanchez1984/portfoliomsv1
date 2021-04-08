@@ -81,42 +81,32 @@
             </p>
     </div>
 </section>
-    <!--<div class= "contenido-formacion">
-    <p class="titulo">- Enterprise Formación -</p>
-            <p><strong>Certificado:</strong> Desarrollo de Aplicaciones con 
-            Tecnología Web.</p>
-            <p><strong>Fecha:</strong> Abril / Diciembre 2019</p>
-            <p>Madrid, Comunidad de Madrid</p>
-                <p class="proyectos">Trabajos:</p>
-                <a href="../enterprise/proyectos-php/bingo/proyectobingo.php">- Generador de Cartones de Bingo</a>
-                <br><a href="examen/examen.php">
-                    - Generador "Cuadernillo Rubio" -
-                </a>
-                <br><a href="./includes/proyectos/dados/dados.php">
-                    - Aplicación que te genera un juego de dados -
-                </a>
-            <p class="practicas">Prácticas:</p>
-            <p><strong>Empresa:</strong> A&A Confección Informática.</p>
-            <p><strong>Fecha:</strong> Diciembre-2019</p>
-            <p>Alcorcón, Comunidad de Madrid.</p>
-            <a href="../enterprise/carta.pdf"><i class="fas fa-file-pdf site-nav--icon"></i></a>
-            <span>Carta de Recomendación</span>
-            <p class="acerca">Acerca de Enterprise Formación:</p>
-            <p>Es una empresa de ámbito nacional 
-            con 10 años de antigüedad dedicada al desarrollo de actividades formativas 
-            en su más amplia acepción.
-            </p>
-                <strong>Página web:</strong> <a href="http://enterpriseformacion.com/">http://enterpriseformacion.com/</a>
-    </div>-->
-    
-    <div class="footer">
-        &copy; All rights reserved. Diseño de: María S Vielba&nbsp&nbsp
-            <a href="./../../contacto.php">~ Contacto ~</a>
-    </div>
-
+<div class="footer">
+    &copy; All rights reserved. Diseño de: María S Vielba&nbsp&nbsp
+    <a href="./../../contacto.php">~ Contacto ~</a>
+</div>
 <a href="./../../home.php" id="home"><i class="fa fa-home"></i> Home</a>
 <script src="./../../includes/js/menu.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
 </body>
 </html>
-    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
