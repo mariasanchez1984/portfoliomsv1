@@ -364,14 +364,12 @@ hr {
     }
     /* Footer */
     .footer  {
-        line-height: normal;
         text-align: center;
         color:  #beebf1;
         font-size: 16px;
         display: flex;
         justify-content: center;
         align-items: flex-end;
-        bottom: -6px;
         height:30px;
         width:100%;
         font-weight: bold;     
