@@ -67,6 +67,43 @@ header #massively i:hover {
     color: darkturquoise;
 }
 
+header nav {
+    background-color: rgba(255, 255, 255, 0.175);
+    font-size: 1em;
+    margin-top: 3%;
+    box-sizing: border-padding;
+}
+
+header #barra_links {
+    float: left;
+    width: 80%;
+}
+
+header #barra_social {
+    float: right;
+    width: 20%;
+    text-align: center;
+    list-style: none;
+    color: #fff;
+}
+
+header nav ul li {
+    display: inline-block;
+}
+   
+header nav ul li {
+    width: 19%;
+    text-align: center;
+    padding: 2%;
+    font-weight: bold;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+   
+   
 /*
 
 

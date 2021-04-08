@@ -26,9 +26,9 @@
             </div>
             <nav id="barra_navegacion">
                 <ul id="barra_links">
-                    <li><a href="">THIS IS MASSIVELY</a></li>
-                    <li><a href="">GENERIC PAGE</a></li>
-                    <li><a href="">ELEMENTS REFERENCE</a></li>
+                    <li class="activado"><a href="">THIS IS MASSIVELY</a></li>
+                    <li class="desactivado"><a href="">GENERIC PAGE</a></li>
+                    <li class="desactivado"><a href="">ELEMENTS REFERENCE</a></li>
                 </ul>
                 <ul id="barra_social">
                     <li><span class="icon-twitter"></span></li>
