@@ -45,42 +45,6 @@
             </ul>
         </nav>
 </header>
-<section class="contenido">
-    <div class="columnas">
-        <img class="im" src="certificado.png" alt="certificado">
-        <h2><strong>Certificado:</strong></h2>
-            <h2>~ Desarrollo de Aplicaciones con 
-            <br>Tecnología Web ~</h2>
-        <p><strong>Fecha:</strong> Abril / Diciembre 2019</p>
-        <p>Madrid, Comunidad de Madrid</p>
-        <h2><strong>Practicas:</strong></h2>
-            <p><strong>Empresa:</strong> A&A Confección Informática.</p>
-            <p><strong>Fecha:</strong> Diciembre-2019</p>
-            <p>Alcorcón, Comunidad de Madrid.</p>
-            <a href="../enterprise/carta.pdf">
-            <i class="fas fa-file-pdf"></i></a>
-            <span>Carta de Recomendación</span>       
-    </div>
-    <div class="columnas">
-        <img class="im" src="programadora.jpg" alt="proyectos">
-        <h2><strong>~ Proyectos de Maquetación Web:</strong></h2>
-        <a class="bingo" href="../enterprise/maquetacion/proyectoflex/proyectoflex.php">Proyecto de Maquetación Flex</a>
-        <br>
-        <a class="bingo" href="../enterprise/maquetacion/proyectomassively/proyectomassively.php">Proyecto Massively</a>
-        <h2><strong>~ Proyectos de PHP:</strong></h2>
-        <a class="bingo" href="../enterprise/proyectos-php/bingo/proyectobingo.php">Generador de Cartones de Bingo</a>
-        <br>
-        <h2><strong>~ Proyectos adicionales:</strong></h2>       
-    </div>
-    <div class="columnas">
-        <img class="im" class="empresa" src="empresa.jpg" alt="empresa">      
-        <h2><strong>Acerca de Enterprise Formación:</strong></h2>
-            <p>Es una empresa de ámbito nacional 
-            con 10 años de antigüedad dedicada al desarrollo de actividades formativas 
-            en su más amplia acepción.
-            </p>
-    </div>
-</section>
 <div class= "contenido-formacion">
             <p class="titulo">- Foro Training -</p>
             <p><strong>Certificado:</strong> Administración de Servicios de Internet.</p> 
@@ -104,10 +68,6 @@
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
 </body>
 </html>
-
-
-
-
 
 
 
